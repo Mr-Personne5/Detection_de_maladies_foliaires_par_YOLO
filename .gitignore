@@ -1,0 +1,22 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Data (dataset is large / downloaded, not committed)
+data/*
+!data/.gitkeep
+
+# YOLO / Ultralytics runs
+runs/
+*.pt
+
+# Roboflow / secrets
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -62,9 +62,3 @@ streamlit run app.py
 Permet d'uploader une image (ou de tirer un exemple aléatoire du test set), de choisir le modèle
 (nano/small) et les seuils de confiance/IoU, et de visualiser les détections en direct.
 
-## Rendu
-
-- Destinataire : amadoualwalyndiaye@gmail.com
-- Objet : `Projet CV - Détection de maladies foliaires (YOLO)`
-- Archive : `NOM_Prenom_ProjetCV_DetectionMaladiesFoliaires.zip` (rapport + code)
-- Deadline : 13-09-2026, 00h00

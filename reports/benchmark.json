@@ -1,0 +1,12 @@
+{
+  "YOLOv8n": {
+    "size_mb": 5.94,
+    "inference_ms": 14.34,
+    "params": 3010913
+  },
+  "YOLOv8s": {
+    "size_mb": 21.47,
+    "inference_ms": 15.82,
+    "params": 11136033
+  }
+}
